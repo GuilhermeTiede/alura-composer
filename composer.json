@@ -1,0 +1,17 @@
+{
+    "name": "guilhermetiedde/buscador-alura",
+    "description": "Curso de Composer da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Guilhermetiedde\\BuscadorAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GuilhermeTiede",
+            "email": "guilhermediastiede@gmail.com"
+        }
+    ],
+    "require": {}
+}
